@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Dog 
   
   attr_accessor :owner, :mood
@@ -17,3 +18,5 @@ class Dog
   end  
   
 end 
+=======
+>>>>>>> 18e3d502fab5546d0732d002f52cf9211e499c1c

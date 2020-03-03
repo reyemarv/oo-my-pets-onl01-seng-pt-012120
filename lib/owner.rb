@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Owner
   
   attr_reader :name, :species
@@ -71,3 +72,6 @@ class Owner
   end 
   
 end 
+=======
+ 
+>>>>>>> 18e3d502fab5546d0732d002f52cf9211e499c1c
